@@ -1,2 +1,15 @@
-# bonjour-weekend
-European travel editorial website · 유럽 감성 여행 웹사이트
+# Bonjour Weekend
+
+유럽 감성 여행 웹사이트. HTML, CSS, JavaScript로 제작.
+
+## 기능
+- 모바일 반응형 디자인
+- 3박 4일 / 4박 5일 필터
+- 브라우저에 저장되는 여행 위시리스트
+- 일정 상세보기 및 여행 노트
+
+이미지는 사용자가 제공한 참고 이미지에서 추출했습니다. 예시 일정이며 예약/결제 기능은 없습니다.
+
+## 배포
+GitHub Pages: main 브랜치, 루트 디렉터리.
+로컬 미리보기: python3 -m http.server 8000
